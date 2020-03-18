@@ -1,10 +1,10 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
+  title: "Workout from home, in community"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
-  button: "Buy Now With $199"
+  image: "images/OWC-Logo.png"
+  button: "Join an online workout"
 
 ############################## product ###########################
 product:
