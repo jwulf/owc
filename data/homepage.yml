@@ -1,8 +1,8 @@
 ############################# banner ############################
-banner:
+ctabanner:
   enable: true
-  title: "Workout from home, in community"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Join an online workout from home."
+  content: "Stuck at home due to Coronavirus? Join a live online workout from your home, using your phone or computer."
   image: "images/OWC-Logo.png"
   button: "Join an online workout"
 
@@ -17,46 +17,46 @@ product:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "How it works"
+  image: "images/group.jpg"
 
   # feature at the left of the image
   leftSide:
     # feature item loop
     - icon: "tf-ion-ios-alarm-outline"
-      title: "Smooth Touch"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title: "6am Monday - Friday"
+      content: "Weekday mornings. 6am Queensland, Australia time"
 
       # feature item loop
     - icon: "tf-ion-ios-bell-outline"
-      title: "Elegant Design"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title: "Join 5 minutes before"
+      content: "Join from your computer or phone using the link above."
 
       # feature item loop
     - icon: "tf-ion-ios-cart-outline"
       title: "Easy Pricing"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "No charge for these classes!"
 
   # feature at the right of the image
   rightSide:
     # feature item loop
     - icon: "tf-ion-ios-alarm-outline"
-      title: "Smooth Touch"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      title: "6pm Monday - Friday"
+      content: "Weekday evenings. 6pm Queensland, Australia time"
 
       # feature item loop
-    - icon: "tf-ion-ios-bell-outline"
-      title: "Elegant Design"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - icon: "tf-ion-ios-camera-outline"
+      title: "Live on the Internet"
+      content: "Make sure that your webcam is on, and get ready for an interactive, live class."
 
       # feature item loop
-    - icon: "tf-ion-ios-cart-outline"
-      title: "Easy Pricing"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - icon: "tf-ion-ios-time-outline"
+      title: "Different classes"
+      content: "Different classes throughout the week - with cardio, strength, and stretch. Timetable coming soon!"
 
 ############################# promo ############################
 promo:
-  enable: true
+  enable: false
   image: "images/watch.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
@@ -67,7 +67,7 @@ promo:
 
 ############################# About Product #######################
 aboutProduct:
-  enable: true
+  enable: false
   title: "Why Choose Apple Watch"
   items:
     # about product item loop
@@ -96,7 +96,7 @@ aboutProduct:
 
 #################################### Gallery ########################
 gallery:
-  enable: true
+  enable: false
   title: "Checkout some amazing Shorts"
   # Set the image directory to use as base
   directory: "images/showcase"
@@ -115,7 +115,7 @@ gallery:
 
 ################################## call to action ###################
 cta:
-  enable: true
+  enable: false
   bgImage: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
