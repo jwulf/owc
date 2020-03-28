@@ -1,10 +1,10 @@
 ############################# banner ############################
 ctabanner:
   enable: true
-  title: "Dance the night away."
-  content: "Remember to mute your mic when you join."
+  title: "Join an online workout from home."
+  content: "Stuck at home due to Coronavirus? Join a live online workout from your home, using your phone or computer."
   image: "images/OWC-Logo.png"
-  button: "Join the 80s Dance Party!"
+  button: "Join an online workout"
 
 ############################## product ###########################
 product:
