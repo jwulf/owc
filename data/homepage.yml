@@ -1,13 +1,14 @@
 ############################# banner ############################
 ctabanner:
   enable: true
-  # title: "Workout online at home."
-  # content: "Join a live online workout from your home, using your phone or computer."
-  #  image: "images/OWC-Logo.png"
-  title: "Saturday Night Fever."
-  content: "Join the dance party on Zoom, 7pm - 10pm QLD time."
-  image: "images/Disco.jpg"
-  button: "Join the party at Zoom 6827423218"
+  title: "Workout online at home."
+  content: "Join a live online workout from your home, using your phone or computer."
+  image: "images/OWC-Logo.png"
+  button: "Join a workout online"
+  # title: "Saturday Night Fever."
+  # content: "Join the dance party on Zoom, 7pm - 10pm QLD time."
+  # image: "images/Disco.jpg"
+  # button: "Join the party at Zoom 6827423218"
 
 ############################## product ###########################
 product:
